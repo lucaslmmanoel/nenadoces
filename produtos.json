@@ -1,0 +1,105 @@
+{
+    "produto_1": {
+        "nome": "Bolo no pote",
+        "sabores": [
+            "Ninho",
+            "Oreo",
+            "Red Velvet",
+            "Brigadeiro",
+            "Choconinho",
+            "Prestígio",
+            "Abacaxi"
+        ],
+        "tamanhos": [
+            "250ml"
+        ]
+    },
+    "produto_2": {
+        "nome": "Copo da Felicidade",
+        "sabores": [
+            "Napolitano",
+            "Tradicional"
+        ],
+        "tamanhos": [
+            "330ml"
+        ]
+    },
+    "produto_3": {
+        "nome": "Copo da Felicidade mini",
+        "sabores": [
+            "Ouro Branco",
+            "Sonho de Valsa",
+            "Copo Foundue de Pastel",
+            "Kit Kat",
+            "Ninho Duplo",
+            "Kinder Bueno"
+        ],
+        "tamanhos": [
+            "265ml"
+        ]
+    },
+    "produto_4": {
+        "nome": "Bom Bom no Pote",
+        "sabores": [
+            "Uva",
+            "Morango"
+        ],
+        "tamanhos": [
+            "250ml"
+        ]
+    },
+    "produto_5": {
+        "nome": "Bolo Gelado",
+        "sabores": [
+            "Ninho C/ chocolate e coco"
+        ],
+        "tamanhos": [
+            "250gr"
+        ]
+    },
+    "produto_6": {
+        "nome": "Banoffe",
+        "sabores": [
+            "Banana c/ doce de leite"
+        ],
+        "tamanhos": [
+            "250gr"
+        ]
+    },
+    "produto_7": {
+        "nome": "Morangoffe",
+        "sabores": [
+            "Morango c/ leite ninho"
+        ],
+        "tamanhos": [
+            "250gr"
+        ]
+    },
+    "produto_8": {
+        "nome": "Pudim",
+        "sabores": [
+            "Pudim de Leite"
+        ],
+        "tamanhos": [
+            "120gr"
+        ]
+    },
+    "produto_9": {
+        "nome": "Mousse",
+        "sabores": [
+            "Maracuja"
+        ],
+        "tamanhos": [
+            "250ml"
+        ]
+    },
+    "produto_10": {
+        "nome": "Marmitinha Founde",
+        "sabores": [
+            "Leite Ninho, chocolate e frutas"
+        ],
+        "tamanhos": [
+            "300gr"
+        ]
+    }
+}
